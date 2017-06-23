@@ -20,7 +20,7 @@ object TF_IDF {
     val sc = new SparkContext(sparkConf)
 
     //Reading the Text File
-    val documents = sc.textFile("/Users/satheeshchandra/Downloads/KDM_Project/project/data/mylab")
+    val documents = sc.textFile("/Users/satheeshchandra/Documents/Github/CS5560_KDM_Project/KDM_Project/project/data/mylab")
 
     //Getting the Lemmatised form of the words in TextFile
     val documentseq = documents.map(f => {

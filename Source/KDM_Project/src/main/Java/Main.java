@@ -33,7 +33,7 @@ public class Main {
         List<CoreLabel> values = new ArrayList<>();
         try (BufferedReader br = new BufferedReader
                 (new FileReader
-                        ("/Users/satheeshchandra/Downloads/KDM_Project/project/data/mylab" ))) {
+                        ("/Users/satheeshchandra/Documents/Github/CS5560_KDM_Project/KDM_Project/project/data/mylab" ))) {
             StringBuilder sbuilder = new StringBuilder();
             String l = br.readLine();
             while (l != null) {
