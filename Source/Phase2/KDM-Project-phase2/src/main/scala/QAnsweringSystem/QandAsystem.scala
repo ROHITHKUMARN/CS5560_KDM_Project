@@ -18,7 +18,7 @@ import org.apache.spark.{SparkConf, SparkContext}
 import scala.collection.immutable.HashMap
 object QandAsystem {
 
-  System.setProperty("hadoop.home.dir","/usr/local/Cellar/apache-spark/2.1.0/bin/");
+  System.setProperty("hadoop.home.dir","C:\\Users\\Megha Nagabhushan\\Documents\\BDAA\\big_data");
   val sparkConfig_rk = new SparkConf().setAppName("Q&A system").setMaster("local[*]").
     set("spark.driver.memory", "6g").set("spark.executor.memory", "6g")
   val sparkcontext_rk = new SparkContext(sparkConfig_rk)
