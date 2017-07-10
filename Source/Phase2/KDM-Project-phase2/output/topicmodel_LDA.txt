@@ -1,0 +1,7 @@
+
+Corpus summary:
+	 Training set size: 52 documents
+	 Vocabulary size: 280 terms
+	 Training set size: 633 tokens
+	 Preprocessing time: 4.810034083 sec
+

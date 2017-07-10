@@ -1,0 +1,10 @@
+
+Corpus summary:
+	 Training set size: 2 documents
+	 Vocabulary size: 626 terms
+	 Preprocessing time: 5.557343251 sec
+
+Finished training KMeans model.  Summary:
+	 Training time: 0.847444534 sec
+file:/Users/satheeshchandra/Documents/Github/CS5560_KDM_Project/Source/Phase2/KDM-Project-phase2/src/mydataset/gym.txt;0
+file:/Users/satheeshchandra/Documents/Github/CS5560_KDM_Project/Source/Phase2/KDM-Project-phase2/src/mydataset/yoga_ds.txt;0

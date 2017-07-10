@@ -17,11 +17,12 @@ import scopt.OptionParser
   * }}}
   * If you use it as a template to create your own app, please use `spark-submit` to submit your app.
   */
+
 object SparkLDAMain {
 
   private case class Params(
                              input: Seq[String] = Seq.empty,
-                             k: Int = 20,
+                             k: Int = 4,
                              algorithm: String = "em")
 
   def main(args: Array[String]) {
@@ -59,7 +60,7 @@ object SparkLDAMain {
 
     Logger.getRootLogger.setLevel(Level.WARN)
 
-    val topic_output = new PrintStream("output/Results.txt")
+    val topic_output = new PrintStream("output/topicmodel_LDA.txt")
     // Load documents, and prepare them for LDA.
     val preprocessStart = System.nanoTime()
     val (corpus, vocabArray, actualNumTokens) =
@@ -144,6 +145,7 @@ object SparkLDAMain {
   private def preprocess(sc: SparkContext,paths: Seq[String]): (RDD[(Long, Vector)], Array[String], Long) = {
 
     val stopWordsdocument=sc.textFile("src/data/stopwords").collect()
+
     val stopWordsBroadCast=sc.broadcast(stopWordsdocument)
 
     val data = sc.textFile(paths.mkString(",")).map(f => {
@@ -179,6 +181,8 @@ object SparkLDAMain {
     val dataframe_rk= stopWordRemovedDF.flatMap(f=>f)
 
     val vocab=dataframe_rk.distinct().collect()
+
     (tfidf, vocab, dataframe_rk.count())
+
   }
 }

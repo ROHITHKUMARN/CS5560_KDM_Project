@@ -8,6 +8,7 @@ import org.apache.spark.mllib.feature.{HashingTF, IDF, Word2Vec, Word2VecModel}
 import scala.collection.immutable.HashMap
 
 object W2V_Ngrams{
+
   def main(args: Array[String]): Unit = {
 
     System.setProperty("hadoop.home.dir", "/usr/local/Cellar/apache-spark/2.1.0/bin/")
@@ -18,16 +19,17 @@ object W2V_Ngrams{
     val sc = new SparkContext(sparkConf)
 
     //Reading the Text File
-    val documents = sc.textFile("src/data/sample")
+    val documents = sc.textFile("src/mydataset/gym.txt")
     //Reading stop words
     val stopWordsInput = sc.textFile("src/data/stopwords")
     // Flatten, collect, and broadcast.
+
     val stopWords = stopWordsInput.flatMap(x => x.split(",")).map(_.trim)
     val broadcastStopWords = sc.broadcast(stopWords.collect.toSet)
 
     //Getting the Lemmatised form of the words in TextFile
     val documentseq = documents.map(f => {
-      val lemmati = NGRAM.getNGrams(f,2).mkString("\n")
+      val lemmati = Lemmatization.returnLemma(NGRAM.getNGrams(f,2).mkString("\n"))
       val sString = lemmati.split("\n").filter(!broadcastStopWords.value.contains(_)).filter( w => !w.contains(","))
       sString.toSeq
     })
@@ -82,15 +84,14 @@ object W2V_Ngrams{
     })
 
     //W2v
-    val input = sc.textFile("src/data/sample").map(line => NGRAM.getNGrams(line,2).mkString(" ").split("\n").toSeq)
+    val input = sc.textFile("src/mydataset/gym.txt").map(line => Lemmatization.returnLemma(NGRAM.getNGrams(line,2).mkString(" ")).split("\n").toSeq)
 
-    val modelFolder = new File("cric_synonms2")
+    val modelFolder = new File("s2")
 
     if (modelFolder.exists()) {
-      val sameModel = Word2VecModel.load(sc, "synonms2")
+      val sameModel = Word2VecModel.load(sc, "s2")
 
       dd1.take(4).foreach(f => {
-        //println(f)
         val synonyms = sameModel.findSynonyms(f._1, 2)
         println("Synonyms for : " + f._1 )
         for ((synonym, cosineSimilarity) <- synonyms) {
@@ -110,7 +111,5 @@ object W2V_Ngrams{
         model.getVectors.foreach(f => println(f._1 + ":" + f._2.length))
       })
     }
-
-
   }
 }
