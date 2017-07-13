@@ -73,7 +73,7 @@ object SparkKMeansMain {
     val resultsA = results.collect()
     var hm = new HashMap[Int, Int]
     resultsA.foreach(f => {
-      topic_output.println(f._1._1 +";" + f._2)
+      topic_output.println(f._1._2 +";" + f._2)
       if (hm.contains(f._2)) {
         var v = hm.get(f._2).get
         v = v + 1
@@ -107,7 +107,6 @@ object SparkKMeansMain {
       (f._1,splitString)
     })
 
-
     val stopWordRemovedDF=df.map(f=>{
       //Filtered numeric and special characters out
       val filteredF=f._2.map(_.replaceAll("[^a-zA-Z]",""))
@@ -135,12 +134,10 @@ object SparkKMeansMain {
     //Creating Inverse Document Frequency
     val tfidf1 = idf.transform(tf)
     tfidf1.cache()
-
-
     val tfidf=tfidf1.zipWithIndex().map(_.swap)
 
     val dff= stopWordRemovedDF.flatMap(f=>f._2)
-    val vocab=dff.distinct().collect()
+
     tfidf.collect()
     (tfidf, data, dff.count()) // Vector, Data, total token count
   }
