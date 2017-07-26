@@ -1,0 +1,2 @@
+(Affects,Affects,ResponseTo,NasalCorticosteroidTreatmentInAsthma)
+(Affects,Affects,ResponseTo,CorticosteroidTreatmentInAsthma)

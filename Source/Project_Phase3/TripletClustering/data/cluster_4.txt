@@ -1,0 +1,2 @@
+(Fibγ390396AMice,Fibγ390396AMice,WereProtectedFrom,WeightGain)
+(Fibγ390396AMice,Fibγ390396AMice,WereProtectedFrom,HFDinducedWeightGain)

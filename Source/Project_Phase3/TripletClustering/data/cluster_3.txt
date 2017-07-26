@@ -1,0 +1,4 @@
+(ThrombinActivity,ThrombinActivity,Underlies,ObesitylinkedThromboembolicEvents)
+(ElevatedThrombinActivity,ElevatedThrombinActivity,Underlies,ThromboembolicEvents)
+(ThrombinActivity,ThrombinActivity,Underlies,ThromboembolicEvents)
+(ElevatedThrombinActivity,ElevatedThrombinActivity,Underlies,ObesitylinkedThromboembolicEvents)

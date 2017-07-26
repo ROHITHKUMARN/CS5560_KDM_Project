@@ -1,0 +1,2 @@
+(DirectThrombinInhibitor,DirectThrombinInhibitor,IsWith,EstablishedObesity)
+(DirectThrombinInhibitor,DirectThrombinInhibitor,IsIn,Mice)

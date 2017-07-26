@@ -1,0 +1,7 @@
+(SinonasalDisease,SinonasalDisease,CanContributeTo,AsthmaControl)
+(DiagnosticCriteria,DiagnosticCriteria,Should,ShouldDescriptive)
+(Disease,Disease,CanContributeTo,PoorAsthmaControl)
+(Disease,Disease,CanContributeTo,AsthmaControl)
+(SinonasalDiseaseSymptoms,SinonasalDiseaseSymptoms,IsWith,IncreasedAsthmaSeverity)
+(SinonasalDisease,SinonasalDisease,CanContributeTo,PoorAsthmaControl)
+(DiagnosticCriteria,DiagnosticCriteria,Avoid,AttributionOfCausality)

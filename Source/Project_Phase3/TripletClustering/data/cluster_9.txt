@@ -1,0 +1,5 @@
+(ObesityassociatedInflammation,ObesityassociatedInflammation,Promotes,MetastaticProgression)
+(Inflammation,Inflammation,Promotes,Progression)
+(Inflammation,Inflammation,Promotes,MetastaticProgression)
+(HepaticInflammation,HepaticInflammation,IsWith,ReducedMacrophageCountsWithinWhiteAdiposeTissue)
+(ObesityassociatedInflammation,ObesityassociatedInflammation,Promotes,Progression)
