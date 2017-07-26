@@ -6,9 +6,6 @@ import org.apache.spark.mllib.feature.{HashingTF, IDF}
 
 import scala.collection.immutable.HashMap
 
-/**
-  * Created by Mayanka on 19-06-2017.
-  */
 object TF_IDF {
   def main(args: Array[String]): Unit = {
 

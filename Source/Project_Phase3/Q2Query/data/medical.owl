@@ -90,10 +90,16 @@
         <NamedIndividual IRI="SinonasalDisease"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="NasalCorticosteroid"/>
+    </Declaration>
+    <Declaration>
         <DataProperty IRI="WereProtectedFrom"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="Pathologies"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="IsA"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="Asthma"/>
@@ -213,6 +219,11 @@
         <NamedIndividual IRI="LinkObesity"/>
     </ObjectPropertyAssertion>
     <DataPropertyAssertion>
+        <DataProperty IRI="IsA"/>
+        <NamedIndividual IRI="Asthma"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Disease</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
         <DataProperty IRI="Avoid"/>
         <NamedIndividual IRI="DiagnosticCriteria"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">AttributionOfCausality</Literal>
@@ -248,9 +259,29 @@
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Severity</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
+        <DataProperty IRI="IsA"/>
+        <NamedIndividual IRI="LungNeutrophilia"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Disease</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="IsA"/>
+        <NamedIndividual IRI="LungNeutrophilia"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Disease</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
         <DataProperty IRI="Are"/>
         <NamedIndividual IRI="MechanisticLinks"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Understood</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="IsA"/>
+        <NamedIndividual IRI="NasalCorticosteroid"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Treatment</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="IsA"/>
+        <NamedIndividual IRI="Pathologies"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Study</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="CanContributeTo"/>
@@ -373,6 +404,18 @@
         <Class IRI="Studies"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
+        <DataProperty IRI="IsA"/>
+        <Class IRI="Disease"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="IsA"/>
+        <Class IRI="Studies"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="IsA"/>
+        <Class IRI="Treatment"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
         <DataProperty IRI="IsAssociatedWith"/>
         <Class IRI="Obesity"/>
     </DataPropertyDomain>
@@ -402,6 +445,18 @@
     </DataPropertyRange>
     <DataPropertyRange>
         <DataProperty IRI="Identified"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="IsA"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="IsA"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="IsA"/>
         <Datatype abbreviatedIRI="xsd:string"/>
     </DataPropertyRange>
     <DataPropertyRange>

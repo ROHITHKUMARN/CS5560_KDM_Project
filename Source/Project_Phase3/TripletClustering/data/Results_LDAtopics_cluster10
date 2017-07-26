@@ -1,0 +1,17 @@
+
+Corpus summary:
+	 Training set size: 7 documents
+	 Vocabulary size: 7 terms
+	 Training set size: 7 tokens
+	 Preprocessing time: 1.927726375 sec
+
+Finished training LDA model.  Summary:
+	 Training time: 4.972805106 sec
+	 Training data average log likelihood: -1.3718999933010225
+
+1 topics:
+TOPIC_0;(SinonasalDiseaseSymptoms,SinonasalDiseaseSymptoms,IsWith,IncreasedAsthmaSeverity);0.3051858709562413
+TOPIC_0;(DiagnosticCriteria,DiagnosticCriteria,Should,ShouldDescriptive);0.28789963443543704
+TOPIC_0;(SinonasalDisease,SinonasalDisease,CanContributeTo,PoorAsthmaControl);0.20345724730416084
+TOPIC_0;(DiagnosticCriteria,DiagnosticCriteria,Avoid,AttributionOfCausality);0.20345724730416084
+

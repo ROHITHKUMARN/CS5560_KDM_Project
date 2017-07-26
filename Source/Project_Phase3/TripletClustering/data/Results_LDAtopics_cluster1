@@ -1,0 +1,18 @@
+
+Corpus summary:
+	 Training set size: 9 documents
+	 Vocabulary size: 9 terms
+	 Training set size: 9 tokens
+	 Preprocessing time: 2.080509817 sec
+
+Finished training LDA model.  Summary:
+	 Training time: 5.198405522 sec
+	 Training data average log likelihood: -1.9418316856741944
+
+1 topics:
+TOPIC_0;(Obesity,Obesity,Is,Associated);0.25491136480050636
+TOPIC_0;(Obesity,Obesity,IsAssociatedWith,IncreasedSeverityOfDisease);0.22329619487014404
+TOPIC_0;(Obesity,Obesity,IsAssociatedWith,SeverityOfDisease);0.22329619487014404
+TOPIC_0;(Obesity,Obesity,IsAssociatedWith,IncreasedSeverity);0.14924812272960278
+TOPIC_0;(Obesity,Obesity,IsAssociatedWith,IncreasedSeverityOfSinonasalDisease);0.14924812272960278
+

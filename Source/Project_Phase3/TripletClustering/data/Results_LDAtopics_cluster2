@@ -1,0 +1,30 @@
+
+Corpus summary:
+	 Training set size: 25 documents
+	 Vocabulary size: 25 terms
+	 Training set size: 25 tokens
+	 Preprocessing time: 2.380104375 sec
+
+Finished training LDA model.  Summary:
+	 Training time: 5.848406011 sec
+	 Training data average log likelihood: -6.414680519423045
+
+1 topics:
+TOPIC_0;(ImmunohistochemicalStudies,ImmunohistochemicalStudies,Identified,FibrinDeposits);0.09820799425022965
+TOPIC_0;(ImmunohistochemicalStudies,ImmunohistochemicalStudies,Identified,DepositsAsFeatures);0.07553455500837623
+TOPIC_0;(ImmunohistochemicalStudies,ImmunohistochemicalStudies,Identified,ExtravascularDepositsAsFeatures);0.07553455500837623
+TOPIC_0;(ImmunohistochemicalStudies,ImmunohistochemicalStudies,Identified,DepositsWithinAdiposeTissueAsDistinctFeatures);0.07553455500837623
+TOPIC_0;(ImmunohistochemicalStudies,ImmunohistochemicalStudies,Identified,FibrinDepositsAsDistinctFeaturesOfMice);0.07553455500837623
+TOPIC_0;(ImmunohistochemicalStudies,ImmunohistochemicalStudies,Identified,ExtravascularDeposits);0.07553455500837623
+TOPIC_0;(ImmunohistochemicalStudies,ImmunohistochemicalStudies,Identified,DepositsAsDistinctFeatures);0.07553455500837623
+TOPIC_0;(ImmunohistochemicalStudies,ImmunohistochemicalStudies,Identified,ExtravascularFibrinDeposits);0.044858467569951294
+TOPIC_0;(ImmunohistochemicalStudies,ImmunohistochemicalStudies,Identified,DepositsWithinAdiposeTissue);0.044858467569951294
+TOPIC_0;(ImmunohistochemicalStudies,ImmunohistochemicalStudies,Identified,FibrinDepositsAsFeatures);0.044858467569951294
+TOPIC_0;(ImmunohistochemicalStudies,ImmunohistochemicalStudies,Identified,ExtravascularFibrinDepositsAsFeaturesOfMice);0.044858467569951294
+TOPIC_0;(ImmunohistochemicalStudies,ImmunohistochemicalStudies,Identified,ExtravascularFibrinDepositsAsFeatures);0.044858467569951294
+TOPIC_0;(ImmunohistochemicalStudies,ImmunohistochemicalStudies,Identified,DepositsAsDistinctFeaturesOfMice);0.044858467569951294
+TOPIC_0;(ImmunohistochemicalStudies,ImmunohistochemicalStudies,Identified,FibrinDepositsAsDistinctFeatures);0.044858467569951294
+TOPIC_0;(ImmunohistochemicalStudies,ImmunohistochemicalStudies,Identified,DepositsWithinAdiposeTissueAsFeatures);0.044858467569951294
+TOPIC_0;(ImmunohistochemicalStudies,ImmunohistochemicalStudies,Identified,ExtravascularDepositsAsFeaturesOfMice);0.044858467569951294
+TOPIC_0;(ImmunohistochemicalStudies,ImmunohistochemicalStudies,Identified,DepositsWithinAdiposeTissueAsFeaturesOfMice);0.044858467569951294
+

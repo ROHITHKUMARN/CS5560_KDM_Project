@@ -1,7 +1,197 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7dd77b9-6c87-42d0-a62e-973f8a418f6d" name="Default" comment="" />
+    <list default="true" id="d7dd77b9-6c87-42d0-a62e-973f8a418f6d" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Q2Query/project/target/config-classes/$10fd37108260c5be32d9$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Q2Query/project/target/config-classes/$10fd37108260c5be32d9$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Q2Query/project/target/config-classes/$10fd37108260c5be32d9.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Q2Query/project/target/config-classes/$10fd37108260c5be32d9.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Q2Query/project/target/config-classes/$5dc7de1f9fcd6aefc854$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Q2Query/project/target/config-classes/$5dc7de1f9fcd6aefc854$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Q2Query/project/target/config-classes/$5dc7de1f9fcd6aefc854.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Q2Query/project/target/config-classes/$5dc7de1f9fcd6aefc854.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Q2Query/project/target/config-classes/$63ffeac6725c83ceba47$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Q2Query/project/target/config-classes/$63ffeac6725c83ceba47$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Q2Query/project/target/config-classes/$63ffeac6725c83ceba47.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Q2Query/project/target/config-classes/$63ffeac6725c83ceba47.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Q2Query/project/target/config-classes/$a520bc58bf58ed896fc2$$anonfun$$sbtdef$1$$anonfun$apply$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Q2Query/project/target/config-classes/$a520bc58bf58ed896fc2$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Q2Query/project/target/config-classes/$a520bc58bf58ed896fc2$$anonfun$$sbtdef$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Q2Query/project/target/config-classes/$a520bc58bf58ed896fc2$$anonfun$$sbtdef$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Q2Query/project/target/config-classes/$a520bc58bf58ed896fc2$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Q2Query/project/target/config-classes/$a520bc58bf58ed896fc2.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Q2Query/project/target/config-classes/$a520bc58bf58ed896fc2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Q2Query/project/target/config-classes/$c47a967b9084276baf0a$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Q2Query/project/target/config-classes/$c47a967b9084276baf0a$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Q2Query/project/target/config-classes/$c47a967b9084276baf0a.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Q2Query/project/target/config-classes/$c47a967b9084276baf0a.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$3c57bd17614e6e65b2aa$$anonfun$$sbtdef$1$$anonfun$apply$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$3c57bd17614e6e65b2aa$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$3c57bd17614e6e65b2aa$$anonfun$$sbtdef$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$3c57bd17614e6e65b2aa$$anonfun$$sbtdef$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$3c57bd17614e6e65b2aa$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$3c57bd17614e6e65b2aa.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$3c57bd17614e6e65b2aa.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$493b7ca4f182566c0011$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$493b7ca4f182566c0011$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$493b7ca4f182566c0011.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$493b7ca4f182566c0011.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$5c0a5ebb8cb73410140e$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$5c0a5ebb8cb73410140e$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$5c0a5ebb8cb73410140e.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$5c0a5ebb8cb73410140e.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$e9cd47ca320a77fdba78$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$e9cd47ca320a77fdba78$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$e9cd47ca320a77fdba78.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$e9cd47ca320a77fdba78.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$ea7c7a4a7f977219e602$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$ea7c7a4a7f977219e602$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$ea7c7a4a7f977219e602.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$ea7c7a4a7f977219e602.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterPath="$PROJECT_DIR$/../Q2Query/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/target/scala-2.11/classes/Question2Query$DLQueryEngine.class" afterPath="$PROJECT_DIR$/../Q2Query/target/scala-2.11/classes/Question2Query$DLQueryEngine.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/target/scala-2.11/classes/Question2Query$DLQueryParser.class" afterPath="$PROJECT_DIR$/../Q2Query/target/scala-2.11/classes/Question2Query$DLQueryParser.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/target/scala-2.11/classes/Question2Query$DLQueryPrinter.class" afterPath="$PROJECT_DIR$/../Q2Query/target/scala-2.11/classes/Question2Query$DLQueryPrinter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/target/scala-2.11/classes/Question2Query.class" afterPath="$PROJECT_DIR$/../Q2Query/target/scala-2.11/classes/Question2Query.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" afterPath="$PROJECT_DIR$/../Q2Query/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" afterPath="$PROJECT_DIR$/../Q2Query/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/LDA$.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/LDA$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/LDA$Params$.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/LDA$Params$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$1.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$2.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$3.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$4.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$5.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$6.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$main$1.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$main$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$main$2.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$main$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$main$3.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$$anonfun$main$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/TF_IDF$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/.idea/modules/q2query.iml" afterPath="$PROJECT_DIR$/../Q2Query/.idea/modules/q2query.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Q2Query/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/data/Predicatelist2" afterPath="$PROJECT_DIR$/../Q2Query/data/Predicatelist2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/data/medical.owl" afterPath="$PROJECT_DIR$/../Q2Query/data/medical.owl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/project/target/resolution-cache/default/q2query-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/../Q2Query/project/target/resolution-cache/default/q2query-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/project/target/resolution-cache/default/q2query-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/../Q2Query/project/target/resolution-cache/default/q2query-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/project/target/resolution-cache/reports/default-q2query-build-compile-internal.xml" afterPath="$PROJECT_DIR$/../Q2Query/project/target/resolution-cache/reports/default-q2query-build-compile-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/project/target/resolution-cache/reports/default-q2query-build-compile.xml" afterPath="$PROJECT_DIR$/../Q2Query/project/target/resolution-cache/reports/default-q2query-build-compile.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/project/target/resolution-cache/reports/default-q2query-build-docs.xml" afterPath="$PROJECT_DIR$/../Q2Query/project/target/resolution-cache/reports/default-q2query-build-docs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/project/target/resolution-cache/reports/default-q2query-build-optional.xml" afterPath="$PROJECT_DIR$/../Q2Query/project/target/resolution-cache/reports/default-q2query-build-optional.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/project/target/resolution-cache/reports/default-q2query-build-plugin.xml" afterPath="$PROJECT_DIR$/../Q2Query/project/target/resolution-cache/reports/default-q2query-build-plugin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/project/target/resolution-cache/reports/default-q2query-build-pom.xml" afterPath="$PROJECT_DIR$/../Q2Query/project/target/resolution-cache/reports/default-q2query-build-pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/project/target/resolution-cache/reports/default-q2query-build-provided.xml" afterPath="$PROJECT_DIR$/../Q2Query/project/target/resolution-cache/reports/default-q2query-build-provided.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/project/target/resolution-cache/reports/default-q2query-build-runtime-internal.xml" afterPath="$PROJECT_DIR$/../Q2Query/project/target/resolution-cache/reports/default-q2query-build-runtime-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/project/target/resolution-cache/reports/default-q2query-build-runtime.xml" afterPath="$PROJECT_DIR$/../Q2Query/project/target/resolution-cache/reports/default-q2query-build-runtime.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/project/target/resolution-cache/reports/default-q2query-build-scala-tool.xml" afterPath="$PROJECT_DIR$/../Q2Query/project/target/resolution-cache/reports/default-q2query-build-scala-tool.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/project/target/resolution-cache/reports/default-q2query-build-sources.xml" afterPath="$PROJECT_DIR$/../Q2Query/project/target/resolution-cache/reports/default-q2query-build-sources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/project/target/resolution-cache/reports/default-q2query-build-test-internal.xml" afterPath="$PROJECT_DIR$/../Q2Query/project/target/resolution-cache/reports/default-q2query-build-test-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/project/target/resolution-cache/reports/default-q2query-build-test.xml" afterPath="$PROJECT_DIR$/../Q2Query/project/target/resolution-cache/reports/default-q2query-build-test.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/project/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/../Q2Query/project/target/streams/$global/update/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterPath="$PROJECT_DIR$/../Q2Query/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/project/target/streams/compile/exportedProducts/$global/streams/export" afterPath="$PROJECT_DIR$/../Q2Query/project/target/streams/compile/exportedProducts/$global/streams/export" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/../Q2Query/project/target/streams/runtime/dependencyClasspath/$global/streams/export" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/project/target/streams/runtime/exportedProducts/$global/streams/export" afterPath="$PROJECT_DIR$/../Q2Query/project/target/streams/runtime/exportedProducts/$global/streams/export" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/project/target/streams/runtime/fullClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/../Q2Query/project/target/streams/runtime/fullClasspath/$global/streams/export" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/../Q2Query/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/src/main/scala/GUI.java" afterPath="$PROJECT_DIR$/../Q2Query/src/main/scala/GUI.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/src/main/scala/Question2Query.java" afterPath="$PROJECT_DIR$/../Q2Query/src/main/scala/Question2Query.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/default/q2query$sources_2.11/1.0/resolved.xml.properties" afterPath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/default/q2query$sources_2.11/1.0/resolved.xml.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/default/q2query$sources_2.11/1.0/resolved.xml.xml" afterPath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/default/q2query$sources_2.11/1.0/resolved.xml.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/default/q2query_2.11/1.0/resolved.xml.properties" afterPath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/default/q2query_2.11/1.0/resolved.xml.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/default/q2query_2.11/1.0/resolved.xml.xml" afterPath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/default/q2query_2.11/1.0/resolved.xml.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/reports/default-q2query$sources_2.11-compile-internal.xml" afterPath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/reports/default-q2query$sources_2.11-compile-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/reports/default-q2query$sources_2.11-compile.xml" afterPath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/reports/default-q2query$sources_2.11-compile.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/reports/default-q2query$sources_2.11-docs.xml" afterPath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/reports/default-q2query$sources_2.11-docs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/reports/default-q2query$sources_2.11-optional.xml" afterPath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/reports/default-q2query$sources_2.11-optional.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/reports/default-q2query$sources_2.11-plugin.xml" afterPath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/reports/default-q2query$sources_2.11-plugin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/reports/default-q2query$sources_2.11-pom.xml" afterPath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/reports/default-q2query$sources_2.11-pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/reports/default-q2query$sources_2.11-provided.xml" afterPath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/reports/default-q2query$sources_2.11-provided.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/reports/default-q2query$sources_2.11-runtime-internal.xml" afterPath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/reports/default-q2query$sources_2.11-runtime-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/reports/default-q2query$sources_2.11-runtime.xml" afterPath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/reports/default-q2query$sources_2.11-runtime.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/reports/default-q2query$sources_2.11-scala-tool.xml" afterPath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/reports/default-q2query$sources_2.11-scala-tool.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/reports/default-q2query$sources_2.11-sources.xml" afterPath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/reports/default-q2query$sources_2.11-sources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/reports/default-q2query$sources_2.11-test-internal.xml" afterPath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/reports/default-q2query$sources_2.11-test-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/reports/default-q2query$sources_2.11-test.xml" afterPath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/reports/default-q2query$sources_2.11-test.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/reports/default-q2query_2.11-compile-internal.xml" afterPath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/reports/default-q2query_2.11-compile-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/reports/default-q2query_2.11-compile.xml" afterPath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/reports/default-q2query_2.11-compile.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/reports/default-q2query_2.11-docs.xml" afterPath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/reports/default-q2query_2.11-docs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/reports/default-q2query_2.11-optional.xml" afterPath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/reports/default-q2query_2.11-optional.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/reports/default-q2query_2.11-plugin.xml" afterPath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/reports/default-q2query_2.11-plugin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/reports/default-q2query_2.11-pom.xml" afterPath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/reports/default-q2query_2.11-pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/reports/default-q2query_2.11-provided.xml" afterPath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/reports/default-q2query_2.11-provided.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/reports/default-q2query_2.11-runtime-internal.xml" afterPath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/reports/default-q2query_2.11-runtime-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/reports/default-q2query_2.11-runtime.xml" afterPath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/reports/default-q2query_2.11-runtime.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/reports/default-q2query_2.11-scala-tool.xml" afterPath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/reports/default-q2query_2.11-scala-tool.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/reports/default-q2query_2.11-sources.xml" afterPath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/reports/default-q2query_2.11-sources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/reports/default-q2query_2.11-test-internal.xml" afterPath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/reports/default-q2query_2.11-test-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/reports/default-q2query_2.11-test.xml" afterPath="$PROJECT_DIR$/../Q2Query/target/resolution-cache/reports/default-q2query_2.11-test.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/../Q2Query/target/streams/$global/update/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterPath="$PROJECT_DIR$/../Q2Query/target/streams/$global/update/$global/streams/update_cache_2.11/output" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Q2Query/target/streams/$global/updateClassifiers/$global/streams/out" afterPath="$PROJECT_DIR$/../Q2Query/target/streams/$global/updateClassifiers/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/tripletclustering.iml" afterPath="$PROJECT_DIR$/.idea/modules/tripletclustering.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/default/tripletclustering-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/project/target/resolution-cache/default/tripletclustering-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/default/tripletclustering-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/default/tripletclustering-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tripletclustering-build-compile-internal.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tripletclustering-build-compile-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tripletclustering-build-compile.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tripletclustering-build-compile.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tripletclustering-build-docs.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tripletclustering-build-docs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tripletclustering-build-optional.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tripletclustering-build-optional.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tripletclustering-build-plugin.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tripletclustering-build-plugin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tripletclustering-build-pom.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tripletclustering-build-pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tripletclustering-build-provided.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tripletclustering-build-provided.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tripletclustering-build-runtime-internal.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tripletclustering-build-runtime-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tripletclustering-build-runtime.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tripletclustering-build-runtime.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tripletclustering-build-scala-tool.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tripletclustering-build-scala-tool.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tripletclustering-build-sources.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tripletclustering-build-sources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tripletclustering-build-test-internal.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tripletclustering-build-test-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tripletclustering-build-test.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-tripletclustering-build-test.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/LDA.scala" afterPath="$PROJECT_DIR$/src/main/scala/LDA.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/TF_IDF.scala" afterPath="$PROJECT_DIR$/src/main/scala/TF_IDF.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/default/tripletclustering$sources_2.11/1.0/resolved.xml.properties" afterPath="$PROJECT_DIR$/target/resolution-cache/default/tripletclustering$sources_2.11/1.0/resolved.xml.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/default/tripletclustering$sources_2.11/1.0/resolved.xml.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/default/tripletclustering$sources_2.11/1.0/resolved.xml.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/default/tripletclustering_2.11/1.0/resolved.xml.properties" afterPath="$PROJECT_DIR$/target/resolution-cache/default/tripletclustering_2.11/1.0/resolved.xml.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/default/tripletclustering_2.11/1.0/resolved.xml.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/default/tripletclustering_2.11/1.0/resolved.xml.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-tripletclustering$sources_2.11-compile-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-tripletclustering$sources_2.11-compile-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-tripletclustering$sources_2.11-compile.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-tripletclustering$sources_2.11-compile.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-tripletclustering$sources_2.11-docs.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-tripletclustering$sources_2.11-docs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-tripletclustering$sources_2.11-optional.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-tripletclustering$sources_2.11-optional.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-tripletclustering$sources_2.11-plugin.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-tripletclustering$sources_2.11-plugin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-tripletclustering$sources_2.11-pom.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-tripletclustering$sources_2.11-pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-tripletclustering$sources_2.11-provided.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-tripletclustering$sources_2.11-provided.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-tripletclustering$sources_2.11-runtime-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-tripletclustering$sources_2.11-runtime-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-tripletclustering$sources_2.11-runtime.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-tripletclustering$sources_2.11-runtime.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-tripletclustering$sources_2.11-scala-tool.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-tripletclustering$sources_2.11-scala-tool.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-tripletclustering$sources_2.11-sources.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-tripletclustering$sources_2.11-sources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-tripletclustering$sources_2.11-test-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-tripletclustering$sources_2.11-test-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-tripletclustering$sources_2.11-test.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-tripletclustering$sources_2.11-test.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-tripletclustering_2.11-compile-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-tripletclustering_2.11-compile-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-tripletclustering_2.11-compile.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-tripletclustering_2.11-compile.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-tripletclustering_2.11-docs.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-tripletclustering_2.11-docs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-tripletclustering_2.11-optional.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-tripletclustering_2.11-optional.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-tripletclustering_2.11-plugin.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-tripletclustering_2.11-plugin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-tripletclustering_2.11-pom.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-tripletclustering_2.11-pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-tripletclustering_2.11-provided.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-tripletclustering_2.11-provided.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-tripletclustering_2.11-runtime-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-tripletclustering_2.11-runtime-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-tripletclustering_2.11-runtime.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-tripletclustering_2.11-runtime.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-tripletclustering_2.11-scala-tool.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-tripletclustering_2.11-scala-tool.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-tripletclustering_2.11-sources.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-tripletclustering_2.11-sources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-tripletclustering_2.11-test-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-tripletclustering_2.11-test-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-tripletclustering_2.11-test.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-tripletclustering_2.11-test.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -37,22 +227,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TF_IDF.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/TF_IDF.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="21" column="53" lean-forward="true" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
-              <folding>
-                <element signature="e#1#27#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="TripletClustering.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/TripletClustering.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
+            <state relative-caret-position="660">
               <caret line="53" column="58" lean-forward="false" selection-start-line="53" selection-start-column="58" selection-end-line="53" selection-end-column="58" />
               <folding>
                 <element signature="e#2#28#0" expanded="true" />
@@ -61,31 +239,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="myapplet.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../Q2Query 2/src/main/scala/myapplet.html">
+      <file leaf-file-name="LDA.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/LDA.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+            <state relative-caret-position="60">
+              <caret line="4" column="39" lean-forward="true" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cluster_8.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/cluster_8.txt">
+      <file leaf-file-name="cluster_2.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/cluster_2.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="496">
-              <caret line="58" column="21" lean-forward="false" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="21" />
+            <state relative-caret-position="322">
+              <caret line="22" column="88" lean-forward="false" selection-start-line="22" selection-start-column="88" selection-end-line="22" selection-end-column="88" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cluster_9.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/cluster_9.txt">
+      <file leaf-file-name="toptriplets_2" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/toptriplets_2">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state relative-caret-position="165">
+              <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Results_KMeans.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/Results_KMeans.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="47" lean-forward="false" selection-start-line="0" selection-start-column="47" selection-end-line="0" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -101,41 +289,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cluster_7.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/cluster_7.txt">
+      <file leaf-file-name="cluster_1.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/cluster_1.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Results_LDAtopics_cluster1" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/Results_LDAtopics_cluster1">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="39" lean-forward="false" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Results_LDAtopics" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/Results_LDAtopics">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="48" lean-forward="false" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="48" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MedTriplets" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/MedTriplets">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
-              <caret line="23" column="84" lean-forward="true" selection-start-line="23" selection-start-column="84" selection-end-line="23" selection-end-column="84" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cluster_5.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/cluster_5.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cluster_4.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/cluster_4.txt">
+      <file leaf-file-name="stopwords.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/stopwords.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="32" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="32" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -159,7 +347,11 @@
       <find>It</find>
       <find>ItEn</find>
       <find>Thrombin</find>
+      <find>9318256327243257</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -172,16 +364,16 @@
         <option value="$PROJECT_DIR$/build.sbt" />
         <option value="$PROJECT_DIR$/src/main/scala/CoreNLP.java" />
         <option value="$PROJECT_DIR$/src/main/scala/Kmeans.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/LDA.scala" />
         <option value="$PROJECT_DIR$/data/Results_LDAtopics" />
         <option value="$PROJECT_DIR$/data/Results_KMeans.txt" />
         <option value="$PROJECT_DIR$/data/cluster_2.txt" />
         <option value="$PROJECT_DIR$/data/MedTriplets" />
         <option value="$PROJECT_DIR$/data/toptriplets_1" />
-        <option value="$PROJECT_DIR$/src/main/scala/TF_IDF.scala" />
         <option value="$PROJECT_DIR$/data/cluster_8.txt" />
         <option value="$PROJECT_DIR$/src/main/scala/TripletClustering.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/myapplet.html" />
+        <option value="$PROJECT_DIR$/src/main/scala/TF_IDF.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/LDA.scala" />
       </list>
     </option>
   </component>
@@ -212,6 +404,7 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -237,6 +430,11 @@
             <path>
               <item name="TripletClustering" type="b2602c69:ProjectViewProjectNode" />
               <item name="TripletClustering" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TripletClustering" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TripletClustering" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -256,8 +454,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="PackagesPane" />
     </panes>
@@ -268,6 +466,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -289,12 +488,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TripletClustering">
-    <configuration name="LDA" type="Application" factoryName="Application" temporary="true">
+  <component name="RunManager" selected="Application.LDA">
+    <configuration name="LDA" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="LDA" />
       <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="data/MedTriplets" />
+      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/data/cluster_1.txt" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -428,20 +627,19 @@
     </configuration>
     <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Application.TripletClustering" />
-      <item index="1" class="java.lang.String" itemvalue="Application.kmeans" />
-      <item index="2" class="java.lang.String" itemvalue="Application.LDA" />
+      <item index="1" class="java.lang.String" itemvalue="Application.LDA" />
+      <item index="2" class="java.lang.String" itemvalue="Application.kmeans" />
       <item index="3" class="java.lang.String" itemvalue="Application.TF_IDF" />
     </list>
     <recent_temporary>
-      <list size="3">
+      <list size="2">
         <item index="0" class="java.lang.String" itemvalue="Application.TF_IDF" />
-        <item index="1" class="java.lang.String" itemvalue="Application.LDA" />
-        <item index="2" class="java.lang.String" itemvalue="Application.kmeans" />
+        <item index="1" class="java.lang.String" itemvalue="Application.kmeans" />
       </list>
     </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
-    <option name="lastUpdateTimestamp" value="1501019663900" />
+    <option name="lastUpdateTimestamp" value="1501078003817" />
     <option name="availableProjects">
       <map>
         <entry>
@@ -485,22 +683,23 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="724" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32698414" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32599726" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.66190475" sideWeight="0.503231" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47853735" sideWeight="0.49676898" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7042641" sideWeight="0.49676898" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24717286" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25121164" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="sbt-shell-toolwindow" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -527,19 +726,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/data/cluster_2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/cluster_3.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="1" lean-forward="true" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -555,9 +745,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2700">
           <caret line="180" column="34" lean-forward="false" selection-start-line="180" selection-start-column="34" selection-end-line="180" selection-end-column="34" />
-          <folding>
-            <element signature="e#2#28#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -706,38 +894,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/Results_LDAtopics">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/toptriplets_3">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/stopwords.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/toptriplets_2">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="29" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/CoreNLP.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -748,53 +904,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/LDA.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1855">
-          <caret line="184" column="19" lean-forward="false" selection-start-line="184" selection-start-column="19" selection-end-line="184" selection-end-column="19" />
-          <folding>
-            <element signature="e#2#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/cluster_1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/cluster_2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="54" lean-forward="false" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/cluster_3.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="34" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/Results_KMeans.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="47" lean-forward="false" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/toptriplets_1">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="62" lean-forward="false" selection-start-line="0" selection-start-column="46" selection-end-line="0" selection-end-column="62" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -802,22 +915,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/cluster_9.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/cluster_10.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -832,7 +936,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/data/cluster_8.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
+        <state relative-caret-position="870">
           <caret line="58" column="21" lean-forward="false" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="21" />
           <folding />
         </state>
@@ -849,32 +953,81 @@
     <entry file="file://$PROJECT_DIR$/data/cluster_5.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/MedTriplets">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="23" column="84" lean-forward="true" selection-start-line="23" selection-start-column="84" selection-end-line="23" selection-end-column="84" />
+        <state relative-caret-position="345">
+          <caret line="23" column="84" lean-forward="false" selection-start-line="23" selection-start-column="84" selection-end-line="23" selection-end-column="84" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../Q2Query 2/src/main/scala/myapplet.html" />
     <entry file="file://$PROJECT_DIR$/src/main/scala/TF_IDF.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="21" column="53" lean-forward="true" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
+        <state relative-caret-position="287">
+          <caret line="74" column="39" lean-forward="true" selection-start-line="74" selection-start-column="39" selection-end-line="74" selection-end-column="39" />
           <folding>
             <element signature="e#1#27#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/data/toptriplets_1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/toptriplets_3">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/toptriplets_2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/Results_LDAtopics">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/stopwords.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/Results_KMeans.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="47" lean-forward="false" selection-start-line="0" selection-start-column="47" selection-end-line="0" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/TripletClustering.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
+        <state relative-caret-position="660">
           <caret line="53" column="58" lean-forward="false" selection-start-line="53" selection-start-column="58" selection-end-line="53" selection-end-column="58" />
           <folding>
             <element signature="e#2#28#0" expanded="true" />
@@ -882,10 +1035,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Q2Query 2/src/main/scala/myapplet.html">
+    <entry file="file://$PROJECT_DIR$/data/cluster_1.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/cluster_2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="22" column="88" lean-forward="false" selection-start-line="22" selection-start-column="88" selection-end-line="22" selection-end-column="88" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/cluster_10.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/Results_LDAtopics_cluster1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="39" lean-forward="false" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/LDA.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="39" lean-forward="true" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
           <folding />
         </state>
       </provider>

@@ -34,7 +34,7 @@ public class Question2Query {
 
         // Load an example ontology.
         OWLOntologyManager manager = OWLManager.createOWLOntologyManager();
-        OWLOntology ontology = manager.loadOntologyFromOntologyDocument(new File("/Users/satheeshchandra/Documents/Github/Q2Query/data/medical.owl"));
+        OWLOntology ontology = manager.loadOntologyFromOntologyDocument(new File("/Users/satheeshchandra/Documents/Github/CS5560_KDM_Project/Source/Project_Phase3/Q2Query/data/medical.owl"));
 
         // We need a reasoner to do our query answering
         // These two lines are the only relevant difference between this code and the original example
@@ -71,7 +71,7 @@ public class Question2Query {
            // String lemma = Lemmatisation.returnLemma(classExpression);
 
             //reading predicate list
-            BufferedReader br1 = new BufferedReader(new FileReader("/Users/satheeshchandra/Documents/Github/Q2Query/data/Predicatelist2"));
+            BufferedReader br1 = new BufferedReader(new FileReader("/Users/satheeshchandra/Documents/Github/CS5560_KDM_Project/Source/Project_Phase3/Q2Query/data/Predicatelist2"));
             String s1;
             ArrayList props = new ArrayList<String>();
             while(( s1= br1.readLine()) != null)
@@ -93,14 +93,43 @@ public class Question2Query {
                     if(s3.contains(x)) {
                         query = s3 +" value " +a[a.length-1];
                     }
+                    else{
+
+                        //reading data properties
+                        BufferedReader br2 = new BufferedReader(new FileReader("/Users/satheeshchandra/Documents/Github/CS5560_KDM_Project/Source/Project_Phase3/Q2Query/data/dataproplist"));
+                        String xz;
+                        ArrayList props2 = new ArrayList<String>();
+                        while ((xz = br2.readLine()) != null) {
+                            String s5[] = xz.split(",");
+                            for (String s4 : s5)
+                                props2.add(s4);
+                        }
+
+                        String a2[] = classExpression.split(" ");
+
+                        for (String t : a2) {
+                            Iterator<String> i2 = props2.iterator();
+                            while (i2.hasNext()) {
+                                String s5 = i2.next();
+                                String obj = a2[a2.length - 1];
+                                if (s5.contains(t)) {
+                                    query = s5 + " value " + '"' + obj + '"';
+
+                                  //answer=dlQueryPrinter.askQuery(query);
+                                }
+                            }
+                        }
+                    }//else
+
+
                 }
 
             }
 
             //DL Query
-          answer=  dlQueryPrinter.askQuery(query);
 
-
+        System.out.print(query);
+        answer=  dlQueryPrinter.askQuery(query);
         return  answer;
     }
 
@@ -287,27 +316,27 @@ Fred  mother  is  Louie
 
 /*
 
-Enter your Question?
+which IsA Disease
+
+IsA value Disease
+Causes value LungNeutrophilia
+
+what WereProtectedFrom HFDinducedWeightGain
+
 which IsWith EstablishedObesity
-DirectThrombinInhibitor  IsWith  EstablishedObesity
 
-Enter your Question?
-Which IsIn FibyMice
-DirectThrombinInhibitor  IsIn  FibyMice
-
-Enter your Question?
 Which Causes LungNeutrophilia
-sentence=Which Causes LungNeutrophilia
-DirectThrombinInhibitor  Causes  LungNeutrophilia
 
-Enter your Question?
-which IsIn  Asthma
-sentence=which IsIn  Asthma
-NasalCorticosteroidTreatment  IsIn    Asthma
-
-Enter your Question?
 which are Targeting ThrombinActivity
-sentence=which are Targeting ThrombinActivity
-NasalCorticosteroidTreatment  are  Targeting  ThrombinActivity
+
+which Avoid AttributionOfCausality
+
+which  Should be ShouldDescriptive
+
+which IsIn FibγMice
+
+which WereProtectedFrom WeightGain
+
+what IsWith IncreasedPrevalenceOfSinonasalDisease
 
  */

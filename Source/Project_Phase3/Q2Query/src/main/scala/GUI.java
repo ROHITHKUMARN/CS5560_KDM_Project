@@ -24,12 +24,9 @@ public class GUI extends JApplet implements ActionListener {
 
     private JPanel getCustPanel() {
         JPanel panel = new JPanel();
-        //  panel.setLayout ((LayoutManager) new BoxLayout(panel, BoxLayout.Y_AXIS));
-
         text=new JTextField();
         text.setPreferredSize( new Dimension( 400, 20 ) );
         text.setToolTipText("Please enter your question");
-        //text.setAlignmentX(Component.CENTER_ALIGNMENT);
         text.setAlignmentX(500);
         text.setAlignmentY(900);
         button = new JButton("Ask");
@@ -39,7 +36,7 @@ public class GUI extends JApplet implements ActionListener {
         panel.add(text);
         panel.add(button);
         l=new JLabel();
-        //  text.setPreferredSize( new Dimension( 400, 20 ) );
+        text.setPreferredSize( new Dimension( 400, 20 ) );
         l.setAlignmentX(Component.HEIGHT );
         panel.add(l);
         return panel;

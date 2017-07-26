@@ -4,7 +4,7 @@
 		module="tripletclustering$sources_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20170725165343"
+		publication="20170726090631"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>

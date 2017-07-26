@@ -21,7 +21,7 @@ object LDA {
 
   private case class Params(
                              input: Seq[String] = Seq.empty,
-                             k: Int = 3,
+                             k: Int = 1,
                              algorithm: String = "em")
 
   def main(args: Array[String]) {
@@ -59,7 +59,7 @@ object LDA {
 
     Logger.getRootLogger.setLevel(Level.WARN)
 
-    val topic_output = new PrintStream("data/Results_LDAtopics")
+    val topic_output = new PrintStream("data/Results_LDAtopics_cluster1")
     // Load documents, and prepare them for LDA.
     val preprocessStart = System.nanoTime()
     val (corpus, vocabArray, actualNumToken,data1) = preprocess(sc, params.input)
@@ -154,7 +154,7 @@ object LDA {
     val stopWords=sc.textFile("data/stopwords.txt").collect()
     val stopWordsBroadCast=sc.broadcast(stopWords)
 
-    val df = sc.textFile("data/Results_KMeans.txt").map(f => {
+    val df = sc.textFile("/Users/satheeshchandra/Documents/Github/CS5560_KDM_Project/Source/Project_Phase3/TripletClustering/data/cluster_1.txt").map(f => {
       val fsplit = f.split(";")
       val lemmatised=fsplit(0)
       val splitString = lemmatised.split(" ")
