@@ -11,8 +11,8 @@ Finished training LDA model.  Summary:
 
 1 topics:
 TOPIC_0;(Obesity,Obesity,Is,Associated);0.25491136480050636
-TOPIC_0;(Obesity,Obesity,IsAssociatedWith,IncreasedSeverityOfDisease);0.22329619487014404
-TOPIC_0;(Obesity,Obesity,IsAssociatedWith,SeverityOfDisease);0.22329619487014404
+TOPIC_0;(Obesity,LinkObesity,IsAssociatedWith,IncreasedSeverityOfDisease);0.22329619487014404
+TOPIC_0;(Obesity,EstablishedObesity,IsAssociatedWith,SeverityOfDisease);0.22329619487014404
 TOPIC_0;(Obesity,Obesity,IsAssociatedWith,IncreasedSeverity);0.14924812272960278
 TOPIC_0;(Obesity,Obesity,IsAssociatedWith,IncreasedSeverityOfSinonasalDisease);0.14924812272960278
 
